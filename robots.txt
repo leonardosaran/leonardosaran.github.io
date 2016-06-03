@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://leonardosaran.github.io/ninjati/sitemap.xml 
