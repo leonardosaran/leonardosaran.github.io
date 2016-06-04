@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://leonardosaran.github.io/blog/2016/06/03/master-post-madness99/</loc>
+<lastmod>2016-06-03T22:51:50-03:00</lastmod>
+</url>
+<url>
 <loc>http://leonardosaran.github.io/blog/2016/06/03/master-post-madness/</loc>
 <lastmod>2016-06-03T22:29:33-03:00</lastmod>
 </url>
@@ -9,5 +13,8 @@
 </url>
 <url>
 <loc>http://leonardosaran.github.io/</loc>
+</url>
+<url>
+<loc>http://leonardosaran.github.io/contato/</loc>
 </url>
 </urlset>

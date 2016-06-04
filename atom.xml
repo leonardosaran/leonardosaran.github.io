@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://leonardosaran.github.io/atom.xml" rel="self"/>
   <link href="http://leonardosaran.github.io/"/>
-  <updated>2016-06-03T22:39:53-03:00</updated>
+  <updated>2016-06-03T23:08:17-03:00</updated>
   <id>http://leonardosaran.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Master Post Madness99]]></title>
+    <link href="http://leonardosaran.github.io/blog/2016/06/03/master-post-madness99/"/>
+    <updated>2016-06-03T22:51:50-03:00</updated>
+    <id>http://leonardosaran.github.io/blog/2016/06/03/master-post-madness99</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Master Post Madness]]></title>
